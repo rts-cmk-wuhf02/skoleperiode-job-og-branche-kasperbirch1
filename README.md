@@ -1,4 +1,7 @@
-# Afløsningsopgave Jobsøgning og Branchekendskab
+# Link til opgaven 
+https://docs.google.com/document/d/1JYA8JYQSFohwq-rU3C-wo4yxhm1yomjPw8QXHX_CqaA/edit?usp=sharing
+
+## Afløsningsopgave Jobsøgning og Branchekendskab
 ## Opgaven skal fylde ca. 4 normalsider (10.400 anslag inkl. mellemrum)
 
 ### Selve opgaven skal indeholde: 
@@ -24,3 +27,4 @@ bilag i form af: En ansøgning (Cover letter, maks. 1 side), hvor du skriver dig
 * Beskrivelse af dig selv
 * Din uddannelseshistorik
 * Din Ansættelseshistorik (herunder også praktikophold og andre små-opgaver)  
+
